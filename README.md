@@ -6,6 +6,8 @@ The MusculoSense EMG Module is a cutting-edge solution designed to provide accur
 	<img src="assets/MusculoSense-Preview.png" width="380" />
 </p>
 
+> Note: MusculoSense is still in experimental stage.
+
 The module is equipped with a 3.5mm cable connection, allowing seamless integration with a variety of devices such as microcontrollers, computers, and data acquisition systems. The inclusion of a 1N4148 diode ensures efficient half-wave signal rectification, providing reliable protection when used with sensitive electronics, making it an ideal choice for applications requiring EMG interfacing.
 
 With the MusculoSense EMG Module, researchers, healthcare professionals, and bioengineers can delve into the world of electromyography with utmost confidence. Whether you are involved in sports performance analysis, neuromuscular research, or rehabilitation engineering, this module provides the tools necessary to unlock deeper insights into muscle function and activity.
@@ -33,3 +35,7 @@ With the MusculoSense EMG Module, researchers, healthcare professionals, and bio
 - **Rehabilitation engineering**: Monitor muscle activity during rehabilitation processes, providing valuable feedback for personalized treatment plans and progress tracking.
 
 Trust the MusculoSense EMG Module for accurate, reliable, and efficient EMG analysis. Discover new dimensions in muscle monitoring and unleash the power of electromyography with confidence.
+
+## License
+
+MusculoSense is licensed under [MIT Public License](MIT Public License).
